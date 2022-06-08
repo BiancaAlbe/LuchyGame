@@ -1,0 +1,24 @@
+.Full {
+    background-color:rgb(248, 170, 244)
+}
+.box {
+    background-color: rgb(235, 133, 226);
+    padding-top: 80px;
+    width: 500px;
+    height: 200px;
+    border :solid rgb(117, 10, 108) 3px ;
+    padding: 50px;
+    margin: 20px;
+}
+/* p.M {
+    padding-top: 100px;
+  } */
+.meows {
+    background-color:rgb(44, 70, 158);
+}
+.casel{
+    background-color:rgb(212, 243, 35);
+}
+.cars{
+    background-color:rgb(84, 209, 199);
+}
